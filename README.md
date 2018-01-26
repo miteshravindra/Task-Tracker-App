@@ -20,19 +20,3 @@
   {"name": "Test Task #7", "date": "12/07/2012", "assigned": "John Doe" }
 ]
 ````
-
-### Assumptions/Realities
-  * Uses CSS3 / HTML5 localstorage (for use with localstorage enabled browsers only)
-  * No input validation except replacing blank inputs with "TBD"
-
-### Development Tools
-  * Sublime text 2
-  * Photoshop
-  * Chrome Browser
-  * Git & github.com
-
-
-### Built with [HTML5 Boilerplate](http://html5boilerplate.com)
-  * Source: [https://github.com/h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-  * Homepage: [http://html5boilerplate.com](http://html5boilerplate.com)
-  * Twitter: [@h5bp](http://twitter.com/h5bp)
